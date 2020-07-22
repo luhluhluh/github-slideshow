@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+I have a few jokes about unemployed people, but none of them work
 Use the left arrow to go back!
